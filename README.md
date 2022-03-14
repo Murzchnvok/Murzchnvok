@@ -35,4 +35,3 @@
   <img src="https://img.shields.io/badge/@Murzchnvok-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff" alt="Telegram">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Murzchnvok&show_icons=true&locale=en" alt="murzchnvok" /></p>
