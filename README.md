@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, never afraid to learn something new!</h2>
+<h1 align="center">Hi 👋, I'm Pedro.. never afraid to learn something new!</h1>
 
 <h3 align="center">langs</h3>
 <p align="center">
